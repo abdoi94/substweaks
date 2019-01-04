@@ -1,0 +1,6 @@
+<?xml version="1.9" encoding="utf-8"?>
+<resources>
+    <integer name="config_maxVisibleNotificationIcons">9</integer>
+    <integer name="config_maxVisibleNotificationIconsWhenDark">9</integer>
+    <integer name="config_maxNotificationIcons">9</integer>
+</resources>
